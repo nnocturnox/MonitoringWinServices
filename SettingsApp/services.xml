@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?>
+<Configuration>
+  <Services>
+    <Service>
+      <Name>Service1</Name>
+      <Description>monitored service</Description>
+      <Status>active</Status>
+      <StartupType>Manual</StartupType>
+    </Service>
+    <Service>
+      <Name>MonitorService</Name>
+      <Description>Monitoring services</Description>
+      <CheckInterval>60000</CheckInterval>
+      <Status>stop</Status>
+      <StartupType>Automatic</StartupType>
+      <MonitoredService>Service1</MonitoredService>
+    </Service>
+  </Services>
+</Configuration>

@@ -1,0 +1,17 @@
+C:\Users\z004zvav\source\repos\MonitoringService\SettingsApp\bin\Debug\SettingsApp.exe.config
+C:\Users\z004zvav\source\repos\MonitoringService\SettingsApp\bin\Debug\SettingsApp.exe
+C:\Users\z004zvav\source\repos\MonitoringService\SettingsApp\bin\Debug\SettingsApp.pdb
+C:\Users\z004zvav\source\repos\MonitoringService\SettingsApp\obj\Debug\SettingsApp.csproj.AssemblyReference.cache
+C:\Users\z004zvav\source\repos\MonitoringService\SettingsApp\obj\Debug\SettingsApp.Form1.resources
+C:\Users\z004zvav\source\repos\MonitoringService\SettingsApp\obj\Debug\SettingsApp.Properties.Resources.resources
+C:\Users\z004zvav\source\repos\MonitoringService\SettingsApp\obj\Debug\SettingsApp.csproj.GenerateResource.cache
+C:\Users\z004zvav\source\repos\MonitoringService\SettingsApp\obj\Debug\SettingsApp.csproj.CoreCompileInputs.cache
+C:\Users\z004zvav\source\repos\MonitoringService\SettingsApp\obj\Debug\SettingsApp.exe
+C:\Users\z004zvav\source\repos\MonitoringService\SettingsApp\obj\Debug\SettingsApp.pdb
+C:\Users\z004zvav\source\repos\MonitoringService\SettingsApp\bin\Debug\System.Diagnostics.EventLog.dll
+C:\Users\z004zvav\source\repos\MonitoringService\SettingsApp\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\z004zvav\source\repos\MonitoringService\SettingsApp\bin\Debug\System.ServiceProcess.ServiceController.dll
+C:\Users\z004zvav\source\repos\MonitoringService\SettingsApp\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\z004zvav\source\repos\MonitoringService\SettingsApp\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\z004zvav\source\repos\MonitoringService\SettingsApp\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\z004zvav\source\repos\MonitoringService\SettingsApp\obj\Debug\Settings.4D05696B.Up2Date

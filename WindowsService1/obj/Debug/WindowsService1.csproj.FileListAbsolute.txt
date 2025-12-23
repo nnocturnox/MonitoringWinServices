@@ -1,0 +1,7 @@
+C:\Users\z004zvav\source\repos\MonitoringService\WindowsService1\bin\Debug\WindowsService1.exe.config
+C:\Users\z004zvav\source\repos\MonitoringService\WindowsService1\bin\Debug\WindowsService1.exe
+C:\Users\z004zvav\source\repos\MonitoringService\WindowsService1\bin\Debug\WindowsService1.pdb
+C:\Users\z004zvav\source\repos\MonitoringService\WindowsService1\obj\Debug\WindowsService1.csproj.AssemblyReference.cache
+C:\Users\z004zvav\source\repos\MonitoringService\WindowsService1\obj\Debug\WindowsService1.csproj.CoreCompileInputs.cache
+C:\Users\z004zvav\source\repos\MonitoringService\WindowsService1\obj\Debug\WindowsService1.exe
+C:\Users\z004zvav\source\repos\MonitoringService\WindowsService1\obj\Debug\WindowsService1.pdb

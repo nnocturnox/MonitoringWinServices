@@ -1,0 +1,119 @@
+﻿Installing assembly 'C:\Users\z004zvav\source\repos\MonitoringService\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\z004zvav\source\repos\MonitoringService\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\z004zvav\source\repos\MonitoringService\WindowsService1\bin\Debug\WindowsService1.exe
+   logtoconsole = 
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\z004zvav\source\repos\MonitoringService\WindowsService1\bin\Debug\WindowsService1.exe assembly.
+Committing assembly 'C:\Users\z004zvav\source\repos\MonitoringService\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\z004zvav\source\repos\MonitoringService\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\z004zvav\source\repos\MonitoringService\WindowsService1\bin\Debug\WindowsService1.exe
+   logtoconsole = 
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\z004zvav\source\repos\MonitoringService\WindowsService1\bin\Debug\WindowsService1.exe assembly.
+Remove InstallState file because there are no installers.
+Installing assembly 'C:\Users\z004zvav\source\repos\MonitoringService\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\z004zvav\source\repos\MonitoringService\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\z004zvav\source\repos\MonitoringService\WindowsService1\bin\Debug\WindowsService1.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\z004zvav\source\repos\MonitoringService\WindowsService1\bin\Debug\WindowsService1.exe assembly.
+Committing assembly 'C:\Users\z004zvav\source\repos\MonitoringService\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\z004zvav\source\repos\MonitoringService\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\z004zvav\source\repos\MonitoringService\WindowsService1\bin\Debug\WindowsService1.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\z004zvav\source\repos\MonitoringService\WindowsService1\bin\Debug\WindowsService1.exe assembly.
+Remove InstallState file because there are no installers.
+Installing assembly 'C:\Users\z004zvav\source\repos\MonitoringService\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\z004zvav\source\repos\MonitoringService\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\z004zvav\source\repos\MonitoringService\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\z004zvav\source\repos\MonitoringService\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\z004zvav\source\repos\MonitoringService\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\z004zvav\source\repos\MonitoringService\WindowsService1\bin\Debug\WindowsService1.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\Users\z004zvav\source\repos\MonitoringService\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\z004zvav\source\repos\MonitoringService\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\z004zvav\source\repos\MonitoringService\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\z004zvav\source\repos\MonitoringService\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\z004zvav\source\repos\MonitoringService\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\z004zvav\source\repos\MonitoringService\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\Users\z004zvav\source\repos\MonitoringService\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\z004zvav\source\repos\MonitoringService\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\z004zvav\source\repos\MonitoringService\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\z004zvav\source\repos\MonitoringService\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\z004zvav\source\repos\MonitoringService\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\z004zvav\source\repos\MonitoringService\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\Users\z004zvav\source\repos\MonitoringService\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\z004zvav\source\repos\MonitoringService\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\z004zvav\source\repos\MonitoringService\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\z004zvav\source\repos\MonitoringService\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\z004zvav\source\repos\MonitoringService\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\z004zvav\source\repos\MonitoringService\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\Users\z004zvav\source\repos\MonitoringService\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\z004zvav\source\repos\MonitoringService\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\z004zvav\source\repos\MonitoringService\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\z004zvav\source\repos\MonitoringService\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\z004zvav\source\repos\MonitoringService\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\z004zvav\source\repos\MonitoringService\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\Users\z004zvav\source\repos\MonitoringService\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\z004zvav\source\repos\MonitoringService\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\z004zvav\source\repos\MonitoringService\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\z004zvav\source\repos\MonitoringService\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\z004zvav\source\repos\MonitoringService\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\z004zvav\source\repos\MonitoringService\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\Users\z004zvav\source\repos\MonitoringService\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\z004zvav\source\repos\MonitoringService\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\z004zvav\source\repos\MonitoringService\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\z004zvav\source\repos\MonitoringService\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\z004zvav\source\repos\MonitoringService\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\z004zvav\source\repos\MonitoringService\WindowsService1\bin\Debug\WindowsService1.exe
